@@ -24,19 +24,15 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a student of Information Technology at the Data Center College of the Pjhilippines. I am a Web Developer but my focus is on backend develpment.";
+  "I'm a student of Information Technology at the Data Center College of the Philippines. I am a Web Developer but my focus is on backend development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Backend Development",
+  "Frontend Development",
 ];
 
 /**
