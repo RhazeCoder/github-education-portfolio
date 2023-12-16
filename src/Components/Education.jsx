@@ -9,18 +9,6 @@ const Education = () => {
                     <h3 style={{ flexBasis: "40px" }}>Date Center College of the Philippines</h3>
                     <p className="small">BS Information Technology</p>
                 </div>
-                <div className="box">
-                    <h3 style={{ flexBasis: "40px" }}>Date Center College of the Philippines</h3>
-                    <p className="small">BS Information Technology</p>
-                </div>
-                <div className="box">
-                    <h3 style={{ flexBasis: "40px" }}>Date Center College of the Philippines</h3>
-                    <p className="small">BS Information Technology</p>
-                </div>
-                <div className="box">
-                    <h3 style={{ flexBasis: "40px" }}>Date Center College of the Philippines</h3>
-                    <p className="small">BS Information Technology</p>
-                </div>
             </div>
         </section>
     );
